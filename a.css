@@ -1,9 +1,11 @@
 h2{
     text-align: center;
-    text-decoration-color: crimson;
+    font-size: large;
+    font-style: italic;
     background-color: antiquewhite;
 }
 p{
     text-align: left;
+    font-style: oblique;
     text-decoration-color: green;
 }
